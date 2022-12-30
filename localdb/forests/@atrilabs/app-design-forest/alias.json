@@ -1,0 +1,16 @@
+{
+  "Alert": 1,
+  "Checkbox": 1,
+  "Div": 9,
+  "Flex": 77,
+  "TextBox": 69,
+  "Link": 14,
+  "Image": 28,
+  "UnorderedList": 13,
+  "VerticalMenu": 1,
+  "Testimonial": 2,
+  "CandleStick": 1,
+  "RadialbarChart": 1,
+  "Menu": 1,
+  "Icon": 1
+}
